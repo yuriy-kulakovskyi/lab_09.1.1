@@ -8,11 +8,11 @@ add_subdirectory(lib/googletest)
 
 add_executable(PR9_2
         src/main.cpp
+        src/h.cpp
 )
 
 add_executable(PR9_2_tests
         tests/test_h.cpp
-        src/h.cpp
 )
 
 target_link_libraries(PR9_2_tests gtest gtest_main)

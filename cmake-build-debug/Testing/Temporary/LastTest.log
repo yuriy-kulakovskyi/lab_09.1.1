@@ -1,3 +1,30 @@
-Start testing: Nov 04 23:28 EET
+Start testing: Nov 05 00:22 EET
 ----------------------------------------------------------
-End testing: Nov 04 23:28 EET
+1/1 Testing: MacroTest.SQRTest
+1/1 Test: MacroTest.SQRTest
+Command: "/Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_2_1/cmake-build-debug/PR9_2_tests" "--gtest_filter=MacroTest.SQRTest" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_2_1/cmake-build-debug
+"MacroTest.SQRTest" start time: Nov 05 00:22 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_2_1/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = MacroTest.SQRTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MacroTest
+[ RUN      ] MacroTest.SQRTest
+[       OK ] MacroTest.SQRTest (0 ms)
+[----------] 1 test from MacroTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MacroTest.SQRTest" end time: Nov 05 00:22 EET
+"MacroTest.SQRTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 05 00:22 EET
