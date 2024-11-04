@@ -1,0 +1,19 @@
+# ninja log v6
+1684	1708	1730752494789715541	lib/libgmock.a	c8c98fe986cb389b
+602	962	1730753313301553771	PR9_2_tests	d0b2c39b9a45b9a
+5	1078	1730752493110803235	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	af29a30a7d934b6a
+4	116	1730753292227943510	CMakeFiles/PR9_2_tests.dir/src/h.cpp.o	2a72e4cb7f10e6a4
+1708	1724	1730752494814001609	lib/libgmock_main.a	c7b38932d055d06e
+5	670	1730752493110931396	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	b789bde76801497f
+1684	1703	1730752494789891616	lib/libgtest_main.a	ddd85a377c936fa9
+1648	1684	1730752494753925575	lib/libgtest.a	b51b69e6de22023b
+5	771	1730752493111394708	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	77521a5af05656cc
+11	602	1730753312351165607	CMakeFiles/PR9_2_tests.dir/tests/test_h.cpp.o	2028ed99e6288a62
+8	190	1730753234157458428	CMakeFiles/PR9_2_tests.dir/src/main.cpp.o	663472920d02c249
+144	241	1730753312484897154	PR9_2	dca820f2cab29037
+10	144	1730753312350852791	CMakeFiles/PR9_2.dir/src/main.cpp.o	fc39280f0bf00ee5
+602	962	1730753313301553771	PR9_2_tests[1]_tests.cmake	d0b2c39b9a45b9a
+602	962	1730753313301553771	/Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_2_1/cmake-build-debug/PR9_2_tests[1]_tests.cmake	d0b2c39b9a45b9a
+4	1648	1730752493110325340	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	d4fe60f14f5f03cc
+8	34	1730752556680008738	CMakeFiles/PR9_2.dir/src/h.cpp.o	1b860208f5cf8250
+4	90	1730753601451838428	build.ninja	4a9f76ed7e3c62c8
